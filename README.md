@@ -7,7 +7,7 @@
 
 Hey there 👋,
 
-I research, design, implement and manage software programms.
+I research, design, implement and manage software programs.
 
 You can see a full list of what I am up to on [gloverola.dev](https://olaglover.netlify.app/).
 
