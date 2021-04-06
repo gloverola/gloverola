@@ -1,8 +1,8 @@
 ![Header](https://res.cloudinary.com/dcd1lhe7x/image/upload/v1617380990/gitprofile_fts5qr.gif "Header")
 <p align='center'>
-<a href="https://twitter.com/_itsglover"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/_itsglover"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ola-glover-638755127/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/_itsglover"><img height="30" src="https://github.com/gloverola/github-files/blob/main/icons/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/_itsglover"><img height="30" src="https://github.com/gloverola/github-files/blob/main/icons/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ola-glover-638755127/"><img height="30" src="https://github.com/gloverola/github-files/blob/main/icons/linkedin.png"></a>
 </p>
 
 Hey there 👋,
