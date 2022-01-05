@@ -5,10 +5,6 @@
 <a href="https://www.linkedin.com/in/ola-glover-638755127/"><img height="30" src="https://github.com/gloverola/github-files/blob/main/icons/linkedin.png"></a>
 </p>
 
-Hey there 👋,
-
-I research, design, implement and manage software programs.
-
 You can see a full list of what I am up to on [gloverola.dev](https://olaglover.netlify.app/).
 
 
@@ -25,7 +21,3 @@ You can see a full list of what I am up to on [gloverola.dev](https://olaglover.
 ![Gatsby](https://img.shields.io/badge/-Gatsby-black?logo=gatsby&style=social)&nbsp;&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=social)&nbsp;&nbsp;
 ![SCSS](https://img.shields.io/badge/-Scss-black?logo=sass&style=social)&nbsp;&nbsp;
-
-
-
-
