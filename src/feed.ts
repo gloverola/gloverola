@@ -1,5 +1,5 @@
 import { promises as fs } from "fs";
-import rssParser from "rss-parser";
+// import rssParser from "rss-parser";
 
 const DEFAULT_N = 5;
 
@@ -9,18 +9,23 @@ type Entry = {
   published_at?: string;
 };
 
-const fetchFeed = async (url: string): Promise<string[]> => {
+const fetchFeed = async (url: string): Promise<any> => {
   try {
-    const parser = new rssParser();
-    const response = await parser.parseURL(url);
-    let feeds = [];
+    fetch(url)
+  .then(res => res.json())
+      .then(data => {
+        let feeds = [];
 
-    for (const item of response.items) {
+    for (const item of data as any) {
       if (item.title && item["canonical_url"]) feeds.push(formatFeedEntry(item));
       if (feeds.length === DEFAULT_N) break;
     }
+      return feeds;
+      })
 
-    return feeds;
+    // const parser = new rssParser();
+    // const response = await parser.parseURL(url);
+
   } catch (error) {
     console.error("Error fetching or parsing the feed:", error);
     return [];
@@ -62,7 +67,7 @@ const updateReadme = async (): Promise<void> => {
   try {
     const readmePath = `${process.cwd()}/README.md`;
     let readmeContent = await fs.readFile(readmePath, "utf-8");
-    readmeContent = replaceChunk(readmeContent, "blog", feeds.join("\n\n"));
+    readmeContent = replaceChunk(readmeContent, "blog", feeds?.join("\n\n"));
     await fs.writeFile(readmePath, readmeContent, "utf-8");
     console.log("README.md updated successfully!");
   } catch (error) {
