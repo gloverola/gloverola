@@ -16,7 +16,7 @@ const fetchFeed = async (url: string): Promise<string[]> => {
     let feeds = [];
 
     for (const item of response.items) {
-      if (item.title && item.canonical_url) feeds.push(formatFeedEntry(item));
+      if (item.title && item["canonical_url"]) feeds.push(formatFeedEntry(item));
       if (feeds.length === DEFAULT_N) break;
     }
 
