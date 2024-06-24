@@ -10,22 +10,20 @@ type Entry = {
 };
 
 const fetchFeed = async (url: string): Promise<any> => {
+  let feeds: any = [];
   try {
-    fetch(url)
-  .then(res => res.json())
-      .then(data => {
-        let feeds = [];
+    const response = await fetch(url);
+    const data = await response.json();
 
     for (const item of data as any) {
-      if (item.title && item["canonical_url"]) feeds.push(formatFeedEntry(item));
-      if (feeds.length === DEFAULT_N) break;
+      if (item.title && item["canonical_url"]) {
+        feeds.push(formatFeedEntry(item));
+      }
+      if (feeds.length === DEFAULT_N) {
+        break;
+      }
     }
-      return feeds;
-      })
-
-    // const parser = new rssParser();
-    // const response = await parser.parseURL(url);
-
+    return feeds;
   } catch (error) {
     console.error("Error fetching or parsing the feed:", error);
     return [];
@@ -67,6 +65,8 @@ const updateReadme = async (): Promise<void> => {
   try {
     const readmePath = `${process.cwd()}/README.md`;
     let readmeContent = await fs.readFile(readmePath, "utf-8");
+    console.log("README.md read successfully!>", feeds);
+
     readmeContent = replaceChunk(readmeContent, "blog", feeds?.join("\n\n"));
     await fs.writeFile(readmePath, readmeContent, "utf-8");
     console.log("README.md updated successfully!");
