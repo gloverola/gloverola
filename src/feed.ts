@@ -65,11 +65,9 @@ const updateReadme = async (): Promise<void> => {
   try {
     const readmePath = `${process.cwd()}/README.md`;
     let readmeContent = await fs.readFile(readmePath, "utf-8");
-    console.log("README.md read successfully!>", feeds);
 
     readmeContent = replaceChunk(readmeContent, "blog", feeds?.join("\n\n"));
     await fs.writeFile(readmePath, readmeContent, "utf-8");
-    console.log("README.md updated successfully!");
   } catch (error) {
     console.error("Error updating README.md:", error);
   }

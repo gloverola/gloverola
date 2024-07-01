@@ -28,11 +28,12 @@ Software engineer 👋
 [Reducing the Size of Your React Applications with Tree Shaking and Code Splitting](https://dev.to/_itsglover/reducing-the-size-of-your-react-applications-with-tree-shaking-and-code-splitting-1650) - 2022-12-11
 
 [Introduction to CSS Positioning.](https://dev.to/_itsglover/introduction-to-css-positioning-45k6) - 2020-12-03
-<!-- blog end -->
 
-Read more on [tduyng.github.io](https://dev.to/_itsglover)
+<!-- blog end -->
 
 </td>
 </tr>
 
 </table>
+
+<!-- Read more on [dev.to](https://dev.to/_itsglover) -->
