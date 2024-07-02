@@ -1,6 +1,6 @@
 # @gloverola
 
-Software engineer 👋
+Software Engineer 👋
 
 ![Header](https://res.cloudinary.com/dcd1lhe7x/image/upload/v1641375042/github_n0vsmn.gif "Header")
 
@@ -10,7 +10,13 @@ Software engineer 👋
 <tr>
 <td valign="top" width="50%">
 
-![Metrics](https://metrics.lecoq.io/gloverola?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FLagos)
+<div align="flex-start" width="100%>
+
+   ![](https://github-readme-stats.vercel.app/api?username=gloverola&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=gloverola&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=gloverola&theme=tokyo-night)
+
+  </div>
 
 <!-- <img src="metrics.svg" alt="Metric" /> -->
 </td>
