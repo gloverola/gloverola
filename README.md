@@ -1,6 +1,6 @@
 # @gloverola
 
-Software Engineer 👋
+Software Visionary | Designing Tomorrow’s Solutions, Today 👋
 
 ![Header](https://res.cloudinary.com/dcd1lhe7x/image/upload/v1641375042/github_n0vsmn.gif "Header")
 
