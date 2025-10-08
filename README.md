@@ -1,45 +1,47 @@
 # @gloverola
 
-Software Visionary | Designing Tomorrow’s Solutions, Today 👋
-
 ![Header](https://res.cloudinary.com/dcd1lhe7x/image/upload/v1641375042/github_n0vsmn.gif "Header")
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
 
-<div align="flex-start" width="100%>
+- 👋 Hi, I’m Glover Olaoluwa
+- 👀 I’m interested in Frontend, Mobile Development, Ai, & Backend Development
+- 🌱 I’m currently learning Golang 
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me : info.gloverr@gmail.com
+----
 
-   ![](https://github-readme-stats.vercel.app/api?username=gloverola&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=gloverola&theme=tokyonight&hide_border=false)<br/>
-   ![](https://github-readme-activity-graph.vercel.app/graph?username=gloverola&theme=tokyo-night)
+![](https://komarev.com/ghpvc/?username=gloverola) 
 
-  </div>
+----
+### GitHub Stats :
 
-<!-- <img src="metrics.svg" alt="Metric" /> -->
-</td>
-<td valign="top" width="50%">
+<p align="center">
 
-## Latest blog posts
+<a href='../../../'>
+<img height='180em' src='https://github-readme-stats.vercel.app/api?username=gloverola&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true'>
+<img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gloverola&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=5'>
+</a>
+<!--- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Solarin-Johnson&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Solarin-Johnson&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Solarin-Johnson&theme=gruvbox&hide_border=true)
+ -->
+ 
+</p>
 
-<!-- blog start -->
-[Deploying a React App on DigitalOcean App Platform Using GitHub Actions](https://dev.to/_itsglover/deploying-a-react-app-on-digitalocean-app-platform-using-github-actions-38jj) - 2023-06-01
+----
+🔥 <b>Streak Stats</b> <br>
+<p align="center">
+<a href='../../../'>
+ <img height='180em' src='https://github-readme-streak-stats.herokuapp.com/?user=gloverola&theme=gruvbox&hide_border=true'>
+</a>
+</p>
 
-[Understanding the Impact of React.StrictMode on Application Performance](https://dev.to/_itsglover/understanding-the-impact-of-reactstrictmode-on-application-performance-1ide) - 2022-12-22
 
-[Next.js in Production: Best Practices and Common Pitfalls](https://dev.to/_itsglover/nextjs-in-production-best-practices-and-common-pitfalls-3ind) - 2022-12-14
+<!-- <h3 align="left">Github Profile Trophy:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Solarin-Johnson&theme=gruvbox" alt="Solarin" /></a> </p>
+<hr> -->
 
-[Reducing the Size of Your React Applications with Tree Shaking and Code Splitting](https://dev.to/_itsglover/reducing-the-size-of-your-react-applications-with-tree-shaking-and-code-splitting-1650) - 2022-12-11
 
-[Introduction to CSS Positioning.](https://dev.to/_itsglover/introduction-to-css-positioning-45k6) - 2020-12-03
-
-<!-- blog end -->
-
-</td>
-</tr>
-
-</table>
-
-<!-- Read more on [dev.to](https://dev.to/_itsglover) -->
